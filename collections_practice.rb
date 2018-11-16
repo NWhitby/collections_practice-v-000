@@ -9,3 +9,9 @@ def sort_array_desc(array)
     y <=> x
   end
 end
+
+def sort_array_char_count(array)
+  arrat.sort do
+
+  end
+end
